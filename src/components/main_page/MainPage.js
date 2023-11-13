@@ -127,8 +127,7 @@ function Main(props) {
 
                 </div>
             </div>
-
-           
+        
             
         </div>
 
